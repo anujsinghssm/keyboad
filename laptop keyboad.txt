@@ -1,0 +1,3 @@
+Code-
+Disable-    sc config i8042prt start= disabled
+Enable-     sc config i8042prt start= auto
